@@ -288,7 +288,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/NeuruhAI/neuruh-sovereign-agent-starter.git",
-        "sha": "c40fcd4dd763a14ee9b3601a8315fef58a66a40a"
+        "sha": "9a9a5329805f94ca5f8833f17873e87f076cb4f0"
       },
       "homepage": "https://github.com/NeuruhAI/neuruh-sovereign-agent-starter",
       "keywords": ["neuruh", "neuruh context pack", "neuruh proof card", "neuruh handoff"],
